@@ -1,5 +1,9 @@
 ### SEMANA --- N W L - Server com NodeJs
 
+<h4 align="center"> 
+	🚧  Status:NodeJs 🚀 Em construção...  🚧
+</h4> 
+
 #Funcionalidades
 ##Conexoões
 
