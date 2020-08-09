@@ -60,8 +60,6 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 # Clone o Repositoria
 $ git clone https://github.com/joaofnetojfn/Proffy_server_Web_040820.git
 
-### 💻 Rode o Project Web
-
 ```
 ### 📦 Rode a API
 
